@@ -12,10 +12,9 @@ As a **full-stack developer**, I enjoy exploring both frontend and backend techn
 - 🗄️ **Databases**: Skilled in MariaDB, MySQL, MongoDB, and HeidiSQL.
 - 🔧 **Development Skills**:
   - Full-stack development with **React.js**, **Node.js**, **Vaadin**, and **Spring Boot**.
-  - Proficient in **HTML**, **CSS**, and crafting user-friendly, responsive designs.
+  - Experienced in **HTML**, **CSS**, and crafting user-friendly, responsive designs.
   - Object-Oriented Programming (OOP) with Java and Python.
   - Designing and integrating relational and NoSQL databases.
-  - Frontend development with frameworks like **React.js** and **JavaFX**.
   - Collaborating effectively with **Git** and version control workflows.
   - Building RESTful APIs and ensuring seamless client-server communication.
   - **API Testing and Debugging** using **Postman**.
@@ -53,7 +52,7 @@ I’ve gained my knowledge through hands-on projects and academic coursework, fo
   - Core programming with **Java**, **JavaScript**, and **Python**.
   - OOP principles: **MVC architecture**, **threading**, and **functional programming**.
 - **Full-Stack Development**:
-  - Building web applications using **React.js**, **Node.js**, and **Spring Boot**.
+  - Building web applications using **React.js**, **Node.js**, **Spring Boot** and **Vaadin**.
   - Creating secure and scalable solutions with RESTful APIs.
 - **Database Design**:
   - Structuring relational databases with normalization and indexing.
