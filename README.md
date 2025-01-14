@@ -31,7 +31,7 @@ A vibrant social platform for pet lovers, built using **React**, **Node.js**, an
 - 🌐 Implements secure authentication with **JWT** and a smooth user experience.  
 - 📦 Modular architecture with controllers, routers, and utilities.  
 
-### [Student Information System](https://github.com/gitober/StudentInformationSystem)  
+### [Student Information System](https://github.com/gitober/Student-Information-System)  
 A web-based platform for managing student-related activities like courses, grades, and attendance.  
 - 📚 Built with **Spring Boot** (backend) and **Vaadin** (frontend).  
 - 🔑 Features role-based access, course management, and grade tracking.  
