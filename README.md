@@ -1,6 +1,6 @@
 # Hello there! 👋 Welcome to my GitHub space!
 
-I'm **Gitta**, an aspiring developer carving my path in the world of software development. I thrive on learning, creating, and solving problems through code. My journey is fueled by a deep curiosity for how things work and the joy of bringing ideas to life.
+I'm **Gitta**, an aspiring developer currently in my third year of studies in software development. I thrive on learning, creating, and solving problems through code. My journey is fueled by a deep curiosity for how things work and the joy of bringing ideas to life.
 
 As a **full-stack developer**, I enjoy exploring both frontend and backend technologies. While I love building intuitive and responsive user interfaces, I find myself particularly drawn to the backend – designing systems that are robust, scalable, and elegantly integrated with databases and APIs.
 
