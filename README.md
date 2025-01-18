@@ -122,5 +122,6 @@ Here are some of the technologies and tools I work with:
 ## 🔗 Let's Connect!
 
 - 📬 **Email**: [oberg.bir@gmail.com](mailto:oberg.bir@gmail.com)  
+- 🌐 **LinkedIn**: [linkedin.com/in/gitoberg](https://linkedin.com/in/gitoberg)
 
 Feel free to explore my repositories, contribute to projects, or just say hi. Let’s create something amazing together! 🚀
